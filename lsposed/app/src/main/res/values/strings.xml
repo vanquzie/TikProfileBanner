@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TikProfileBanner</string>
+    <string name="module_description">Force-enables TikTok profile banner (47.1.3)</string>
+</resources>
