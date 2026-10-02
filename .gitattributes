@@ -1,0 +1,10 @@
+* text=auto
+zygisk/module.prop text eol=lf
+zygisk/META-INF/com/google/android/updater-script text eol=lf
+zygisk/customize.sh text eol=lf
+zygisk/build-zip.sh text eol=lf
+zygisk/META-INF/com/google/android/update-binary text eol=lf
+*.ps1 text eol=crlf
+*.so binary
+*.dex binary
+*.apk binary
