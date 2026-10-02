@@ -27,6 +27,19 @@ restart TikTok. Done.
 > own profile, so you will not see it yourself. Check from a second
 > account.
 
+## For non-rooted (LSPatch)
+
+No root? Use [LSPatch](https://github.com/JingMatrix/LSPatch) (v1.2 or
+newer) with TikTok 47.1.3 ready to patch.
+
+1. Install the LSPatch manager app from the link above.
+2. Patch TikTok with TikProfileBanner included (pick the option that
+   bundles the module into the app).
+3. Install the patched TikTok it produces.
+4. Force stop TikTok and open it again.
+
+You still will not see your own banner, check it from a second account.
+
 ## Build it yourself
 
 You need JDK 21 and the Android SDK. Linux and macOS are supported, it
